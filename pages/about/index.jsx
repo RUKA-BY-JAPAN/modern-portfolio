@@ -60,16 +60,16 @@ export const aboutData = [
     title: "experience",
     info: [
       {
-        title: "UX/UI Designer - XYZ Company",
-        stage: "2012 - 2023",
+        title: "UX/UI Designer - vironlk (pvt) Ltd",
+        stage: "2023- 2024",
       },
       {
-        title: "Web Developer - ABC Agency",
-        stage: "2010 - 2012",
+        title: "Web Developer - Lcg Ltd offic",
+        stage: "2024- 2024",
       },
       {
-        title: "Intern - DEF Corporation",
-        stage: "2008 - 2010",
+        title: "Assistant - Atgg pvt ltd",
+        stage: "2024 - 2025",
       },
     ],
   },
