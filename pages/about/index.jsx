@@ -129,9 +129,7 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            10 years ago, I begin freelancing as a developer. Since then, I've
-            done remote work for agencies, consulted for startups, and
-            collabrated on digital products for business and consumer use.
+            I began my journey in the field of Information Technology after completing my O/L examinations, successfully earning multiple recognized certifications along the way. Later, I gained hands-on experience working in the IT department of a private company, enhancing my technical expertise and problem-solving skills. Currently, I am further advancing my knowledge by pursuing a Diploma in IT and Cybersecurity, with a strong passion for technology, digital security, and innovation. My goal is to continuously grow as a professional and contribute to the ever-evolving tech industry.
           </motion.p>
 
           {/* counters */}
