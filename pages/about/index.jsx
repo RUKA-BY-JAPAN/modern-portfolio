@@ -47,12 +47,12 @@ export const aboutData = [
     title: "awards",
     info: [
       {
-        title: "Webby Awards - Honoree",
-        stage: "2011 - 2012",
+        title: "projects by - T.p.d.r.k",
+        stage: "2023 - 2030",
       },
       {
-        title: "Adobe Design Achievement Awards - Finalist",
-        stage: "2009 - 2010",
+        title: "i am IT graduate and currently studying cybersecurity.",
+        stage: "2024 - 2026",
       },
     ],
   },
