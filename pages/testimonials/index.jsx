@@ -14,7 +14,7 @@ const Testimonials = () => {
           exit="hidden"
           className="h2 mb-8 xl:mb-0"
         >
-          Project Owners &<span className="text-accent">Developed.</span>
+          Project Developers and <span className="text-accent">Tem.</span>
         </motion.h2>
 
         {/* slider */}
