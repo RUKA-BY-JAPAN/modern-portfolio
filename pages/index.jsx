@@ -32,7 +32,7 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            SOLO-LEVELING V1 is a powerful JavaScript-based WhatsApp bot, built by Rukshan for the Legion of Doom. Designed with speed, intelligence, and unmatched versatility, it brings automation, advanced features, and complete control to your chats — making it the ultimate digital weapon in the messaging battlefield..
+            Solo-leveling is a JavaScript-based WhatsApp bot created by Rukshan, a dedicated programmer with knowledge in HTML and basic programming languages. Rukshan is known for his relentless drive and determination—always someone who pushes beyond limits. His contributions have been vital in the development of the Solo-leveling bot project, which proudly belongs to the Legion of Doom team. Through his skills and commitment, Rukshan continues to support and advance the project, helping it grow into a powerful tool in the world of automation and digital communication..
           </motion.p>
 
           {/* btn */}
