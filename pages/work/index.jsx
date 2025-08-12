@@ -20,7 +20,7 @@ const Work = () => {
               exit="hidden"
               className="h2 xl:mt-12"
             >
-              My work <span className="text-accent">.</span>
+              My work Project <span className="text-accent">.</span>
             </motion.h2>
             <motion.p
               variants={fadeIn("up", 0.4)}
@@ -29,8 +29,7 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              tempora eligendi, quisquam tempore sint reiciendis.
+              SOLO-LEVELING is a powerful JavaScript-based WhatsApp bot, built by Rukshan for the Legion of Doom. Designed with speed, intelligence, and unmatched versatility, it brings automation, advanced features, and complete control to your chats — making it the ultimate digital weapon in the messaging battlefield.
             </motion.p>
           </div>
 
