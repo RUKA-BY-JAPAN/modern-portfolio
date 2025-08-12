@@ -22,7 +22,7 @@ const Services = () => {
               exit="hidden"
               className="h2 xl:mt-8"
             >
-              My services <span className="text-accent">.</span>
+              My Other <span className="text-accent">services.</span>
             </motion.h2>
             <motion.p
               variants={fadeIn("up", 0.4)}
@@ -31,8 +31,7 @@ const Services = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              tempora eligendi, quisquam tempore sint reiciendis.
+              Red Samurai Rukshan is a passionate coder and bot developer driven by a strong desire to earn and build something meaningful. While coding and developing bot projects bring him joy and satisfaction, his ultimate focus is on creating sustainable income. Alongside his programming skills, he also works part-time by building websites, turning his technical knowledge into practical opportunities. Always ambitious and dedicated, Rukshan balances his passion for technology with his goals to achieve financial success and personal growth.
             </motion.p>
           </div>
 
