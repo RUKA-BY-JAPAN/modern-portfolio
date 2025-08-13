@@ -13,21 +13,21 @@ const testimonialData = [
     name: "DINUWA",
     position: "HELPR & CEO",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Dinuwa is the second-in-command of the Legion of Doom team, positioned right after the current owner. While not the creator of the Solo-Leveling Bot, Dinuwan plays a crucial role in its coding oversight and group management, ensuring smooth operation and coordination within the community.",
   },
   {
     image: "/t-avt-2.png",
     name: "JOSHUWA",
     position: "LOD CEO",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "JOSHUWA is currently a key figure in the Legion of Doom. He financially supported and advised the creation of the Solo-Leveling bot. However, he recently stepped down from his leadership role and left the team after handing over his position.!",
   },
   {
     image: "/t-avt-3.png",
     name: "RUKSHAN",
     position: "SOLO-LEVELING OWNER",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "I am a tech enthusiast with a strong passion for innovation and modern technology. After completing my O/L examinations, I pursued and successfully completed an IT course, earning multiple certifications. I have gained professional experience working in the IT department of a private company and am currently studying for a Diploma in Cyber Security and IT.I specialize in developing JavaScript-based WhatsApp bots, designing websites, and exploring advanced AI-powered solutions to create impactful and creative digital tools.!",
   },
 ];
 
