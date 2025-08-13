@@ -77,16 +77,16 @@ export const aboutData = [
     title: "credentials",
     info: [
       {
-        title: "Web Development - ABC University, LA, CA",
-        stage: "2011",
+        title: "Web Development -vironlk nvq lv 2 certificate",
+        stage: "2024",
       },
       {
-        title: "Computer Science Diploma - AV Technical Institute",
-        stage: "2009",
+        title: "software development - kurunagala ict camps A certificate",
+        stage: "2024",
       },
       {
-        title: "Certified Graphic Designer - ABC Institute, Los Angeles, CA",
-        stage: "2006",
+        title: "photo g video editor & designer ",
+        stage: "2025",
       },
     ],
   },
