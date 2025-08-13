@@ -23,9 +23,9 @@ const workSlides = {
           link: "https://sessiond-b6a96c639f12.herokuapp.com/",
         },
         {
-          title: "IP DETAILS",
+          title: "BROADCAST WEB",
           path: "/thumb3.jpg",
-          link: "https://drukshan-by-nihon.vercel.app/",
+          link: "https://legion-of-doom-broadcast-b1c92a6e148d.herokuapp.com/",
         },
         {
           title: "SOLO-LEVELING X MINI",
@@ -42,9 +42,9 @@ const workSlides = {
           link: "https://solo-leveling-mini-x.vercel.app/",
         },
         {
-          title: "WHATEVER DETAILS APP",
+          title: "SESSION BY SOLO LEVELING ",
           path: "/thumb1.jpg",
-          link: "https://weather-io-by-rukshan.vercel.app/",
+          link: "https://sessiond-b6a96c639f12.herokuapp.com/",
         },
         {
           title: "CONTACT PUSH WEB",
