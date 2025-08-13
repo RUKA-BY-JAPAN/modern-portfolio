@@ -37,7 +37,7 @@ export const socialData = [
   },
   {
     name: "Github",
-    link: "https://github.com/sanidhyy/modern-portfolio",
+    link: "https://github.com/SOLO-LEVELING-IN-RUKSHAN/SOLO-LEVELING-V1",
     Icon: RiGithubLine,
   },
 ];
