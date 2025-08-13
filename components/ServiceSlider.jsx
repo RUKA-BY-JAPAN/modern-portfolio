@@ -16,13 +16,13 @@ import "swiper/css/pagination";
 const serviceData = [
   {
     Icon: RxCrop,
-    title: "Branding",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "WEB SITE MAKE",
+    description: "I create modern, responsive, and user-friendly websites, blending creativity with technology to deliver impactful online experiences..",
   },
   {
     Icon: RxPencil2,
     title: "Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description: "Website, video ,photo designer & editor.",
   },
   {
     Icon: RxDesktop,
@@ -36,7 +36,7 @@ const serviceData = [
   },
   {
     Icon: RxRocket,
-    title: "SEO",
+    title: "CEO",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
 ];
