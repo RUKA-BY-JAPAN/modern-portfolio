@@ -27,7 +27,7 @@ export const socialData = [
   },
   {
     name: "Dribbble",
-    link: "https://dribbble.com",
+    link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
     Icon: RiDribbbleLine,
   },
   {
