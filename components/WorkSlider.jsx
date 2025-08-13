@@ -13,48 +13,48 @@ const workSlides = {
     {
       images: [
         {
-          title: "title",
+          title: "SOLO-LEVELING V1",
           path: "/thumb1.jpg",
-          link: "http://example.com",
+          link: "https://solo-leveling-v1-by-ruka.vercal.com",
         },
         {
-          title: "title",
+          title: "SESSION BY SOLO-LEVELING",
           path: "/thumb2.jpg",
-          link: "http://example.com",
+          link: "https://sessiond-b6a96c639f12.herokuapp.com/",
         },
         {
-          title: "title",
+          title: "IP DETAILS",
           path: "/thumb3.jpg",
-          link: "http://example.com",
+          link: "https://drukshan-by-nihon.vercel.app/",
         },
         {
-          title: "title",
+          title: "SOLO-LEVELING X MINI",
           path: "/thumb4.jpg",
-          link: "http://example.com",
+          link: "https://solo-leveling-mini-x.vercel.app/",
         },
       ],
     },
     {
       images: [
         {
-          title: "title",
+          title: "SOLO-LEVELING X MINI",
           path: "/thumb4.jpg",
-          link: "http://example.com",
+          link: "https://solo-leveling-mini-x.vercel.app/",
         },
         {
-          title: "title",
+          title: "WHATEVER DETAILS APP",
           path: "/thumb1.jpg",
-          link: "http://example.com",
+          link: "https://weather-io-by-rukshan.vercel.app/",
         },
         {
-          title: "title",
+          title: "CONTACT PUSH WEB",
           path: "/thumb2.jpg",
-          link: "http://example.com",
+          link: "https://contcat-push-project.onrender.com",
         },
         {
-          title: "title",
+          title: "BROADCAST WEB",
           path: "/thumb3.jpg",
-          link: "http://example.com",
+          link: "https://legion-of-doom-broadcast-b1c92a6e148d.herokuapp.com/",
         },
       ],
     },
